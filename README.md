@@ -17,4 +17,4 @@ The dataset used in this project is structured and well-organized, providing opp
 
 ## Limitations
 
-Due to technical constraints, artifacts generated during experimentation are stored locally and cannot be accessed directly from Databricks. If you require more details about the artifacts, please feel free to contact me privately. 
+Due to constraints, the experiment server is stored locally in Databricks. If you require more details about the parameters tracking, please feel free to contact me privately. 
